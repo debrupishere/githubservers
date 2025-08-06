@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@modelcontextprotocol/server-everything": "*",
-    "@modelcontextprotocol/server-memory": "*",
+    "@modelcontextprotocol/server-memory": "2025.4.25",
     "@modelcontextprotocol/server-filesystem": "*",
     "@modelcontextprotocol/server-sequential-thinking": "*"
   }
